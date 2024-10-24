@@ -1,0 +1,7 @@
+transformers==4.45.2
+datasets==3.0.1
+evaluate==0.4.3
+scikit-learn==1.3.2
+transformers[torch]
+torchvision==0.19.1
+torch==2.4.1
