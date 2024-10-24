@@ -62,7 +62,7 @@ model = MobileViTForImageClassification.from_pretrained(
 )
 
 training_args = TrainingArguments(
-    output_dir="my_food_model",
+    output_dir="MobileViT_Food",
     remove_unused_columns=False,
     evaluation_strategy="epoch",
     save_strategy="epoch",

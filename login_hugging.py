@@ -1,3 +1,3 @@
 from huggingface_hub import login
-login("")
+login("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")
 
